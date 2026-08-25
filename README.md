@@ -337,6 +337,7 @@ find <directory> -name <file_name>
 
 **Output:**
 <img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/78efbd56-ff68-4831-9f85-65622a64dbda" />
+<img width="1600" height="1448" alt="WhatsApp Image 2026-08-25 at 2 34 23 PM" src="https://github.com/user-attachments/assets/82a5d02f-4cfe-4a92-b1f5-6263a964f7e2" />
 
 
 ## Result
