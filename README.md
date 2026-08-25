@@ -336,5 +336,7 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+<img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/78efbd56-ff68-4831-9f85-65622a64dbda" />
+
 
 ## Result
